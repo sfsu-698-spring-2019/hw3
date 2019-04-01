@@ -1,5 +1,4 @@
 #!/bin/bash
-#SBATCH -A cc3uv3p
 #SBATCH -J particle-gpu
 #SBATCH -o particle-gpu.stdout
 #SBATCH -n 1         
