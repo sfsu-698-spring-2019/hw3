@@ -1,5 +1,4 @@
 #!/bin/bash
-#SBATCH -A cc3uv3p
 #SBATCH -J particle-serial
 #SBATCH -o particle-serial.stdout
 #SBATCH -N 1         
